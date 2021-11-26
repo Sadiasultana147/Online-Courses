@@ -1,0 +1,33 @@
+
+/* single card */
+.card{
+   
+    box-shadow: 4px 4px 7px gray;
+    background-image: linear-gradient(black, #9198e5);
+}
+/* full col */
+.col{
+    padding-top: 50px;
+}
+
+.img{
+    
+    width: 50%;
+   height: 180px;
+}
+
+/* name */
+.letter{
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+}
+
+/* description */
+.letter1{
+    font-weight: bold;
+    font-size: 15px;
+    justify-content: center;
+    
+   
+}

@@ -1,0 +1,60 @@
+img{
+    width:50px
+}
+
+.image1{
+    width:50%
+}
+
+.part{
+    background-color: #C2DFFF;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+.part1{
+    background-color: #737CA1;
+    padding-top: 10px;
+   
+}
+.word{
+    color: white;
+   
+}
+
+span{
+    margin-right: 40px;
+    
+}
+.span2{
+    margin-right: 90px;
+  
+
+}
+.span3{
+    margin-right: 220px;
+
+}
+
+.describe{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 10%;
+    justify-content: center;
+
+}
+.about{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+.headline1{
+    padding-top:25px;
+    color:white;
+}
+
+.headline2{
+    padding-bottom:25px;
+    color:white;
+}

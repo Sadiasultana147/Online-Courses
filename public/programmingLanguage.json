@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Professional Programming with C#",
+      "image": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/4de43e07-bb67-4747-8561-02e179a02bd9_656e8a441a4c4590bac830ae9cf4499c_W400xH0.jpg",
+     
+      "fee": 8000
+    },
+    {
+      "id": 2,
+      "name": "Competitive Programming - Advanced",
+      "image": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/eb83cbb5-0381-44f1-9412-eb6217110d94_c7bc0615dc534eb5b694bb2f862ded0c_W400xH0.jpg",
+      
+      "fee": 7000
+    },
+    {
+      "id": 3,
+      "name": "Linux System Administration",
+      "image": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/e3797bd9-6ff4-4b40-a5c2-4320ed078e63_e06f070308d84c5f9dfcc293e82e9210_W400xH0.jpg",
+     
+      "fee": 6000
+    },
+    
+    
+    {
+      "id": 4,
+      "name": "Full Stack Asp.net Core MVC Web Development",
+      "image": "https://s3-ap-southeast-1.amazonaws.com/devskillimagestorage/profileimages/188e0e61-e08d-4ccb-bda7-1db4c0a04681_409189d1c87a4eb8bd03510dfb782525_W400xH0.png",
+    
+      "fee": 30000
+    }
+   
+  ]

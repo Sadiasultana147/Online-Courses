@@ -1,0 +1,14 @@
+.image{
+    width:150px;
+    height: 180px;
+    border: 3 px solid red;
+    border-radius: 50%;
+}
+
+hr{
+    border-top: 5px solid #6495ED;
+}
+
+.word{
+    color: white;
+}
